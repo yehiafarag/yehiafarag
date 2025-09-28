@@ -15,7 +15,7 @@ Here are some of my featured repositories:
 - [PeptideShaker Online](https://github.com/barsnes-group/peptideshakeronline):  
   **A user-friendly web-based framework for MS-based proteomics data identification, featuring a Galaxy backend and web application frontend.**
 
-- [csf-pr-2.0](https://github.com/barsnes-group/csf-pr-2.0):  
+- [CSF Proteome Resource (CSF-PR)](https://github.com/barsnes-group/csf-pr):  
   **An online repository for mass spectrometry-based CSF proteomics data, supporting biomarker research in neurological diseases.**
 
 - [DIVA Omics](https://github.com/yehiafarag/diva-omics) ([Demo](https://yehiafarag.github.io/diva-omics-demo/)):  
