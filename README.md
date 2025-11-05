@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yehia Farag
+# 👋 Hi, I'm Yehia Mokhtar Farag
 
 Welcome to my GitHub profile! I'm passionate about software development and scientific computing, with a focus on bioinformatics and data science.
 
